@@ -14,7 +14,7 @@ test_requirements = [
 
 setup(
     name='face_recognition_models',
-    version='0.2.0',
+    version='0.3.0',
     description="Models used by the face_recognition package.",
     long_description=readme,
     author="Adam Geitgey",
